@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoengSaravit
 - 👀 I’m interested in Big Data, Machine Learning, Data Science.
-- 🌱 I’m currently learning master of big data at Chungbuk National University
+- 🌱 I’m currently pursuing master of big data at Chungbuk National University
 - 📫 Reach me at www.soengsaravit.com
 
 <!---
